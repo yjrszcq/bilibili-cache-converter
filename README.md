@@ -220,4 +220,9 @@ python -m unittest -v
 
 ## 参考
 
-电脑端缓存识别、BV 分组及九字节前缀处理行为参考了 [switch616/bilibiliConverted](https://github.com/switch616/bilibiliConverted)。本项目对其功能进行了独立重写，并与手机端转换流程整合。
+- 手机端 M4S/BLV 缓存、弹幕、分文件夹及 NFO 功能参考并整合自 [kaixinol/BiliCache2MP4](https://github.com/kaixinol/BiliCache2MP4)。
+- 电脑端缓存识别、BV 分组及九字节前缀处理行为参考了 [switch616/bilibiliConverted](https://github.com/switch616/bilibiliConverted)。
+
+## 许可证
+
+手机端参考项目 BiliCache2MP4 采用 GNU GPL v3。该整合项目按 GNU GPL v3 发布，完整条款见 `LICENSE`。
