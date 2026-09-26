@@ -225,4 +225,4 @@ python -m unittest -v
 
 ## 许可证
 
-手机端参考项目 BiliCache2MP4 采用 GNU GPL v3。该整合项目按 GNU GPL v3 发布，完整条款见 `LICENSE`。
+该项目按 GNU GPL v3 发布，完整条款见 `LICENSE`。
